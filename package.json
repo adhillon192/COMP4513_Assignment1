@@ -1,0 +1,25 @@
+{
+  "name": "comp4513_assignment1",
+  "version": "1.0.0",
+  "description": "This repository contains a Node.js project that provides an API to access Formula 1 racing data for the years 2019-2023. It utilizes Express for building the APIs and integrates with Supabase as a cloud-hosted database. Users can query details about races, drivers, constructors, and race results.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhillon192/COMP4513_Assignment1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/adhillon192/COMP4513_Assignment1/issues"
+  },
+  "homepage": "https://github.com/adhillon192/COMP4513_Assignment1#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.75.1",
+    "express": "^5.1.0"
+  }
+}
