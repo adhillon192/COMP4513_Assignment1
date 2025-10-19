@@ -17,7 +17,6 @@ A RESTful API providing comprehensive access to Formula 1 racing data from 2019-
 - [Getting Started](#getting-started)
 - [API Documentation](#api-documentation)
 - [Data Coverage](#data-coverage)
-- [Development](#development)
 - [Deployment](#deployment)
 - [License](#license)
 
