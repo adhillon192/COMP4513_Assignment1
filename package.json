@@ -20,6 +20,8 @@
   "homepage": "https://github.com/adhillon192/COMP4513_Assignment1#readme",
   "dependencies": {
     "@supabase/supabase-js": "^2.75.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
     "express": "^5.1.0"
   }
 }
